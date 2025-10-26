@@ -71,12 +71,6 @@ Après avoir obtenu mon *DEUST en MIP (Mathématiques, Informatique, Physique), 
   </a>
 </p>
 
----
-
-
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083b0,100:00b4db&height=120&section=footer"/>
 </p>
