@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=👋%20Bienvenue%20sur%20le%20profil%20de%20Homam%20DANY&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="header"/>
 </p>
 
-<!-- Décoration centrale -->
-<p align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.svg" width="500" alt="Typing SVG">
-</p>
+
 
 <h2 align="center">🎓 Étudiant en Ingénierie de Développement d’Applications Informatiques</h2>
 
@@ -66,18 +63,7 @@ Mon parcours combine *rigueur scientifique* et *créativité logicielle*, ce qui
 - Explorer le *développement mobile* et les *API web*
 - Maîtriser les bonnes pratiques de *sécurité informatique*
 
----
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
-
-*(Remplace YOUR_GITHUB_USERNAME par ton pseudo GitHub)*
-
----
 
 ## 🌐 Me contacter
 
