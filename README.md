@@ -73,8 +73,7 @@ Après avoir obtenu mon *DEUST en MIP (Mathématiques, Informatique, Physique), 
 
 ---
 
-## ✨ Citation qui m’inspire
-> “Le futur appartient à ceux qui croient à la beauté de leurs rêves.” – Eleanor Roosevelt
+
 
 ---
 
