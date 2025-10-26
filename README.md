@@ -1,6 +1,6 @@
 
 
-# Salut 👋, je suis Dany Homam
+# Salut 👋, je suis Homam
 
 🎓 Étudiant à la *Faculté des Sciences et Techniques de Tanger (FSTT)*  
 💻 Licence en *Ingénierie du Développement d’Applications Informatiques*  
