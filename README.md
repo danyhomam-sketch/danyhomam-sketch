@@ -6,18 +6,7 @@
 💻 Licence en *Ingénierie du Développement d’Applications Informatiques*  
 📘 Diplôme précédent : *DEUST en Mathématiques, Informatique et Physique (MIP)*  
 
----
 
-### 🌱 Modules actuels
-- Programmation Orientée Objet : *C++ & Java*
-- Développement Web : *HTML, CSS, PHP*
-- *Modélisation UML*
-- *Systèmes d’exploitation & Réseaux informatiques*
-- *Bases de données structurées*
-- *Python*
-- *Initiation au développement mobile & Edge Computing*
-
----
 
 ### 🤝 Connectez-vous avec moi
 <p align="left">
