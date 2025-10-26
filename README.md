@@ -1,5 +1,4 @@
-<!-- Image de bannière -->
-![banner](https://raw.githubusercontent.com/ton-utilisateur/ton-depot/main/images/banner.png)
+
 
 # Salut 👋, je suis Dany Homam
 
