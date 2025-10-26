@@ -1,5 +1,5 @@
 <!-- Image de bannière -->
-![bannière](https://i.imgur.com/YOUR_IMAGE_LINK.png)
+![banner](https://raw.githubusercontent.com/ton-utilisateur/ton-depot/main/images/banner.png)
 
 # Salut 👋, je suis Dany Homam
 
