@@ -18,18 +18,29 @@ Mon objectif est de devenir un *ingénieur en développement polyvalent*, capabl
 
 ---
 
-## 💻 Compétences & Technologies
+## 💻 Compétences Techniques
 
 ### 🔹 Langages de programmation
-- *C++* | *Java (POO)* | *Python*
-- *HTML* | *CSS* | *JavaScript* | *PHP*
+<p align="center">
+  <img src="https://img.shields.io/badge/C++%20(POO)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%20(POO)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
 ### 🔹 Outils & Concepts
-- *Systèmes d’exploitation & Réseaux informatiques*  
-- *Modélisation UML*  
-- *Bases de données structurées (SQL)*  
-- *Développement web & mobile (initiation)*  
-- *Edge Computing*
+<p align="center">
+  <img src="https://img.shields.io/badge/UML-6A5ACD?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bases%20de%20Données-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Systèmes%20d'Exploitation-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Réseaux%20Informatiques-00A8E8?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Développement%20Web-FF7139?style=for-the-badge&logo=mozilla&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile%20&%20Edge%20Computing-34A853?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
 
 ---
 
