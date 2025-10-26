@@ -1,29 +1,30 @@
-<!-- HEADER -->
+<!-- En-tête animé -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=👋%20Bienvenue%20sur%20le%20profil%20de%20Homam%20DANY&fontSize=30&fontColor=ffffff&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=👋%20Bienvenue%20sur%20le%20profil%20de%20Homam%20DANY&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="header"/>
 </p>
 
-<!-- LOGO PERSONNALISÉ -->
+<!-- Décoration centrale -->
 <p align="center">
-  <img src="https://img.logoipsum.com/298.svg" width="140" alt="Logo Homam DANY"/>
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo.svg" width="500" alt="Typing SVG">
 </p>
 
 <h2 align="center">🎓 Étudiant en Ingénierie de Développement d’Applications Informatiques</h2>
 
 <p align="center">
   <strong>Faculté des Sciences et Techniques de Tanger (FSTT)</strong><br>
-  <em>Passionné par la création d’applications performantes, modernes et intelligentes.</em>
+  <em>Passionné par le développement, la technologie et l’innovation logicielle.</em>
 </p>
 
 ---
 
 ## 💫 À propos de moi
 
-Je suis *Homam DANY, étudiant en **licence Ingénierie de Développement d’Applications Informatiques* à la *Faculté des Sciences et Techniques de Tanger*.  
-Titulaire d’un *DEUST en MIP (Mathématiques, Informatique, Physique), j’ai développé un fort intérêt pour le **développement logiciel, les **systèmes informatiques* et les *nouvelles technologies*.
+Je suis *Homam DANY, étudiant à la **Faculté des Sciences et Techniques de Tanger (FSTT)*.  
+Après avoir obtenu mon *DEUST en MIP (Mathématiques, Informatique, Physique), j’ai intégré la **Licence en Ingénierie de Développement d’Applications Informatiques*.  
+Mon parcours combine *rigueur scientifique* et *créativité logicielle*, ce qui me permet d’aborder des projets avec méthode et innovation.
 
-💡 Je cherche à combiner rigueur scientifique et créativité technique pour concevoir des solutions fiables, performantes et évolutives.  
-🎯 Mon ambition : devenir un *ingénieur logiciel complet*, capable d’innover dans des environnements techniques exigeants.
+💡 Je m’intéresse à la conception de systèmes performants, à la programmation orientée objet et aux technologies émergentes comme le *mobile* et l’*edge computing*.  
+🎯 Mon ambition : devenir un *ingénieur en développement logiciel* capable de créer des solutions modernes et efficaces.
 
 ---
 
@@ -43,7 +44,7 @@ Titulaire d’un *DEUST en MIP (Mathématiques, Informatique, Physique), j’ai 
 ### 🔹 Outils & Concepts
 <p align="center">
   <img src="https://img.shields.io/badge/UML-6A5ACD?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Base%20de%20Données-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bases%20de%20Données-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Systèmes%20d'Exploitation-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Réseaux%20Informatiques-00A8E8?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Développement%20Web-FF7139?style=for-the-badge&logo=mozilla&logoColor=white"/>
@@ -52,26 +53,26 @@ Titulaire d’un *DEUST en MIP (Mathématiques, Informatique, Physique), j’ai 
 
 ---
 
-## 🚀 Projets & Centres d’intérêt
+## 🚀 Projets & Objectifs
 
-📘 *Projets académiques :*
-- Conception d’applications orientées objet en *C++* et *Java*  
-- Développement de sites web dynamiques en *HTML/CSS/PHP/MySQL*  
-- Modélisation UML et gestion de base de données  
-- Mini-projets en *Python* et *réseaux informatiques*
+🎯 *Projets réalisés :*
+- Conception d’applications orientées objet en *C++* et *Java*
+- Développement de sites web dynamiques (*HTML, **CSS, **PHP, **SQL*)
+- Modélisation UML et gestion de bases de données structurées
+- Mini-projets en *Python* et *réseaux*
 
-🌱 *Actuellement, j’explore :*
-- L’*architecture logicielle* et les *design patterns*  
-- Le *développement mobile hybride*  
-- L’*edge computing* et les systèmes distribués  
+🌱 *Objectifs actuels :*
+- Approfondir mes connaissances en *architecture logicielle*
+- Explorer le *développement mobile* et les *API web*
+- Maîtriser les bonnes pratiques de *sécurité informatique*
 
 ---
 
 ## 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Statistiques GitHub de Homam"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Langages les plus utilisés"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>
 
 *(Remplace YOUR_GITHUB_USERNAME par ton pseudo GitHub)*
@@ -89,6 +90,8 @@ Titulaire d’un *DEUST en MIP (Mathématiques, Informatique, Physique), j’ai 
   </a>
 </p>
 
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0083b0,100:00b4db&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0077B5&height=120&section=footer"/>
 </p>
