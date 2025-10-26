@@ -1,38 +1,38 @@
-<!-- Banner / Header -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=👋%20Salut%2C%20moi%20c'est%20Homam!&fontSize=35&fontColor=ffffff&fontAlignY=35" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4db,100:0083b0&height=200&section=header&text=👋%20Bienvenue%20sur%20le%20profil%20de%20Homam%20DANY&fontSize=30&fontColor=ffffff&fontAlignY=35" alt="header"/>
 </p>
 
-<!-- Photo de profil -->
+<!-- LOGO PERSONNALISÉ -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" style="border-radius:50%;" alt="photo de Homam"/>
+  <img src="https://img.logoipsum.com/298.svg" width="140" alt="Logo Homam DANY"/>
 </p>
 
 <h2 align="center">🎓 Étudiant en Ingénierie de Développement d’Applications Informatiques</h2>
 
 <p align="center">
-  <strong>Faculté des Sciences et Techniques de Tanger (FSTT)</strong> <br>
-  <em>Passionné par la technologie, l’innovation et la création d’applications performantes.</em>
+  <strong>Faculté des Sciences et Techniques de Tanger (FSTT)</strong><br>
+  <em>Passionné par la création d’applications performantes, modernes et intelligentes.</em>
 </p>
 
 ---
 
 ## 💫 À propos de moi
 
-Je suis *Homam DANY, étudiant à la **Faculté des Sciences et Techniques de Tanger*.  
-Après avoir obtenu mon *DEUST en MIP (Mathématiques, Informatique, Physique), j’ai intégré la **Licence en Ingénierie de Développement d’Applications Informatiques* pour approfondir mes connaissances dans les domaines du *développement logiciel* et des *technologies de l’information*.
+Je suis *Homam DANY, étudiant en **licence Ingénierie de Développement d’Applications Informatiques* à la *Faculté des Sciences et Techniques de Tanger*.  
+Titulaire d’un *DEUST en MIP (Mathématiques, Informatique, Physique), j’ai développé un fort intérêt pour le **développement logiciel, les **systèmes informatiques* et les *nouvelles technologies*.
 
-🔭 Mon objectif : devenir un *ingénieur en développement complet*, capable de concevoir des solutions modernes, intelligentes et efficaces.  
-💡 J’aime apprendre, expérimenter et relever de nouveaux défis technologiques.
+💡 Je cherche à combiner rigueur scientifique et créativité technique pour concevoir des solutions fiables, performantes et évolutives.  
+🎯 Mon ambition : devenir un *ingénieur logiciel complet*, capable d’innover dans des environnements techniques exigeants.
 
 ---
 
-## 🧠 Compétences Techniques
+## 💻 Compétences Techniques
 
 ### 🔹 Langages de programmation
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++%20(POO)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java%20(POO)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,22 +41,40 @@ Après avoir obtenu mon *DEUST en MIP (Mathématiques, Informatique, Physique), 
 </p>
 
 ### 🔹 Outils & Concepts
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/UML-6A5ACD?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Systèmes%20d'exploitation-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Réseaux%20informatiques-00A8E8?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Développement%20Mobile-34A853?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Edge%20Computing-4285F4?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Base%20de%20Données-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Systèmes%20d'Exploitation-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Réseaux%20Informatiques-00A8E8?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Développement%20Web-FF7139?style=for-the-badge&logo=mozilla&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile%20&%20Edge%20Computing-34A853?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Ce que j’aime faire
-- Créer des applications robustes et bien conçues 💻  
-- Explorer de nouvelles technologies et paradigmes de programmation 🌍  
-- Collaborer sur des projets open-source 🤝  
-- M’améliorer continuellement pour atteindre l’excellence 🧩  
+## 🚀 Projets & Centres d’intérêt
+
+📘 *Projets académiques :*
+- Conception d’applications orientées objet en *C++* et *Java*  
+- Développement de sites web dynamiques en *HTML/CSS/PHP/MySQL*  
+- Modélisation UML et gestion de base de données  
+- Mini-projets en *Python* et *réseaux informatiques*
+
+🌱 *Actuellement, j’explore :*
+- L’*architecture logicielle* et les *design patterns*  
+- Le *développement mobile hybride*  
+- L’*edge computing* et les systèmes distribués  
+
+---
+
+## 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Statistiques GitHub de Homam"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Langages les plus utilisés"/>
+</p>
+
+*(Remplace YOUR_GITHUB_USERNAME par ton pseudo GitHub)*
 
 ---
 
