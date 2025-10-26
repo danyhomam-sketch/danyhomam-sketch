@@ -51,6 +51,12 @@ Mon objectif est de devenir un *ingénieur en développement polyvalent*, capabl
 - Explorer l’IA, la cybersécurité et le développement mobile
 
 ---
+ 🌱 *Objectifs actuels :*
+- Approfondir mes connaissances en *architecture logicielle*
+- Explorer le *développement mobile* et les *API web*
+- Maîtriser les bonnes pratiques de *sécurité informatique*
+
+---
 
 ## 🌐 Me retrouver en ligne
 
@@ -61,3 +67,7 @@ Mon objectif est de devenir un *ingénieur en développement polyvalent*, capabl
 
 
 💬 Merci de visiter mon profil ! N’hésitez pas à me contacter pour discuter, échanger des idées ou collaborer sur des projets intéressants. 🚀
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0077B5&height=120&section=footer"/>
+</p>
