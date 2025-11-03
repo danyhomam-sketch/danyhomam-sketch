@@ -1,12 +1,4 @@
 
-<div align="center" width="50">
-
-<img src="https://raw.githubusercontent.com/danyhomam-sketch/danyhomam-sketch/93c3e36530103ca2267315c762f99514df284067/hellocoders.gif" alt="Hello Homam" width="70%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="50%"/><br>
-
-</div>
-
-<heure></heure>
     
   <h1 style="font-size: 2.4em; margin-bottom: 10px;">👋 Salut, moi c’est <span style="color:#00BFFF;">Homam Dany</span></h1>
   <h3>🎓 Étudiant en Ingénierie du Développement d’Applications Informatiques</h3>
@@ -102,13 +94,7 @@ J’aime apprendre, expérimenter de nouvelles technologies et transformer des i
 - ✉️ **Email** : [dany.homam@etu.uae.ac.ma](mailto:dany.homam@etu.uae.ac.ma)  
 - 💼 **LinkedIn** : [Homam Dany](https://www.linkedin.com/in/homam-dany-2047a7189)  
 
----
 
-## ✨ Citation qui m’inspire
-
-> "Le meilleur moyen de prédire l’avenir, c’est de le créer." – Alan Kay
-
----
 
 <p align="center">
   🌟 Merci d’avoir visité mon profil ! N’hésitez pas à découvrir mes projets universitaires en cours. 🌟
