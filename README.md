@@ -1,24 +1,12 @@
 
+<div align="center" width="50">
 
-  <!-- Image de fond -->
-  <img src="https://raw.githubusercontent.com/danyhomam-sketch/danyhomam-sketch/main/1000113961.jpg" 
-       alt="Bannière développeur" 
-       width="100%" 
-       style="border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.5);" />
+<img src="https://raw.githubusercontent.com/danyhomam-sketch/danyhomam-sketch/93c3e36530103ca2267315c762f99514df284067/hellocoders.gif" alt="Hello Homam" width="70%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="50%"/><br>
 
-  <!-- Texte superposé -->
-  <div style="
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      background: rgba(0, 0, 0, 0.55);
-      color: white;
-      padding: 20px 40px;
-      border-radius: 12px;
-      backdrop-filter: blur(5px);
-      text-align: center;
-      ">
+</div>
+
+<heure></heure>
     
   <h1 style="font-size: 2.4em; margin-bottom: 10px;">👋 Salut, moi c’est <span style="color:#00BFFF;">Homam Dany</span></h1>
   <h3>🎓 Étudiant en Ingénierie du Développement d’Applications Informatiques</h3>
