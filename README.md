@@ -1,7 +1,43 @@
-<!-- 🌌 Bannière -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/danyhomam-sketch/danyhomam-sketch/main/1000113961.jpg" width="800" alt="Bannière développeur"/>
-</p>
+<!-- 🌌 En-tête professionnel animé -->
+<div align="center" style="position: relative; width: 100%;">
+
+  <!-- Image de fond -->
+  <img src="https://raw.githubusercontent.com/danyhomam-sketch/danyhomam-sketch/main/1000113961.jpg" 
+       alt="Bannière développeur" 
+       width="100%" 
+       style="border-radius: 15px; box-shadow: 0 0 15px rgba(0,0,0,0.5);" />
+
+  <!-- Texte superposé -->
+  <div style="
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: rgba(0, 0, 0, 0.55);
+      color: white;
+      padding: 20px 40px;
+      border-radius: 12px;
+      backdrop-filter: blur(5px);
+      text-align: center;
+      ">
+    
+  <h1 style="font-size: 2.4em; margin-bottom: 10px;">👋 Salut, moi c’est <span style="color:#00BFFF;">Homam Dany</span></h1>
+  <h3>🎓 Étudiant en Ingénierie du Développement d’Applications Informatiques</h3>
+  <h4>💻 Faculté des Sciences et Techniques de Tanger – Université Abdelmalek Essaâdi</h4>
+
+  <!-- Animation de texte dynamique -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Développeur+Passionné+💻;Apprentissage+Continu+🚀;Informatique+,+Web+et+Innovation+🌐" 
+       alt="Typing animation" />
+  </div>
+</div>
+
+<!-- GIF d'illustration style “developer workspace” -->
+<div align="center">
+  <br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
+       alt="Workspace Developer" 
+       width="45%" />
+</div>
 
 <h1 align="center">👋 Salut, moi c’est <span style="color:#00BFFF;">Homam Dany</span></h1>
 
@@ -36,19 +72,23 @@ J’aime apprendre, expérimenter de nouvelles technologies et transformer des i
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,linux,git,vscode,github" />
   <img src="https://img.shields.io/badge/UML-Modelisation-blue?style=for-the-badge&logo=uml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raylib-Game%20Dev-green?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📚 Ce que j’étudie actuellement
-
-- **Programmation orientée objet** (C++ / Java) + **Raylib**  
-- **Développement Web** : HTML, CSS, JavaScript, PHP, **Laravel**  
-- **Systèmes d’exploitation (Linux)** et **Réseaux informatiques**  
-- **Modélisation UML**  
-- **Bases de données structurées et SQL**  
-- **Python**  
-- **Initiation au développement mobile & Edge Computing**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java" title="Programmation orientée objet (C++ / Java)" />
+  <img src="https://img.shields.io/badge/Raylib-2D/3D%20Library-red?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" title="Développement Web" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Systèmes d’exploitation" />
+  <img src="https://img.shields.io/badge/Network-Réseaux-lightgrey?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-Modélisation-blueviolet?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://img.shields.io/badge/SQL-Bases%20de%20données-orange?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20%26%20Edge%20Computing-Initiation-yellow?style=for-the-badge" />
+</p>
 
 ---
 
