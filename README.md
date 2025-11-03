@@ -1,5 +1,4 @@
-<!-- 🌌 En-tête professionnel animé -->
-<div align="center" style="position: relative; width: 100%;">
+
 
   <!-- Image de fond -->
   <img src="https://raw.githubusercontent.com/danyhomam-sketch/danyhomam-sketch/main/1000113961.jpg" 
