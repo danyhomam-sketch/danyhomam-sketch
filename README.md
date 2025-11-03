@@ -1,8 +1,6 @@
 
     
-  <h1 style="font-size: 2.4em; margin-bottom: 10px;">👋 Salut, moi c’est <span style="color:#00BFFF;">Homam Dany</span></h1>
-  <h3>🎓 Étudiant en Ingénierie du Développement d’Applications Informatiques</h3>
-  <h4>💻 Faculté des Sciences et Techniques de Tanger – Université Abdelmalek Essaâdi</h4>
+ 
 
   <!-- Animation de texte dynamique -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Développeur+Passionné+💻;Apprentissage+Continu+🚀;Informatique+,+Web+et+Innovation+🌐" 
