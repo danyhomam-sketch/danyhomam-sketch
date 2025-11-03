@@ -1,12 +1,6 @@
 
     
- 
 
-  <!-- Animation de texte dynamique -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Développeur+Passionné+💻;Apprentissage+Continu+🚀;Informatique+,+Web+et+Innovation+🌐" 
-       alt="Typing animation" />
-  </div>
-</div>
 
 <!-- GIF d'illustration style “developer workspace” -->
 <div align="center">
