@@ -1,3 +1,18 @@
+<div align="center" width="50">
+
+<img src="https://raw.githubusercontent.com/Houssam-Elh/Houssam-Elh/93c3e36530103ca2267315c762f99514df284067/hellocoders.gif" alt="Hello Coders" width="70%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="50%"/><br>
+
+</div>
+
+<heure></heurr>
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=👋%20Bienvenue%20sur%20le%20profil%20de%20Homam%20DANY&fontSize=28&fontColor=ffffff&fontAlignY=35" alt="header"/>
 </p>
