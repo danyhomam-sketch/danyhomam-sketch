@@ -1,93 +1,26 @@
+<h1 align="center">Hi 👋, I'm Homam</h1>
+<h3 align="center">Software Application Development Engineering Student</h3>
 
-    
+- 🔭 I’m currently working on **A web/mobile management project**
 
+- 🌱 I’m currently learning **Object-Oriented Programming (C++/Java) , Operating Systems (Linux) and Computer Networking , Web Development (HTML, CSS, JavaScript, PHP) , UML Modeling , Structured Databases & SQL, Mobile Development Basics & Edge Computing , Python**
 
-<!-- GIF d'illustration style “developer workspace” -->
-<div align="center">
-  <br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" 
-       alt="Workspace Developer" 
-       width="45%" />
-</div>
+- 👯 I’m looking to collaborate on **Open-source projects or small web, mobile, or desktop applications**
 
-<h1 align="center">👋 Salut, moi c’est <span style="color:#00BFFF;">Homam Dany</span></h1>
+- 🤝 I’m looking for help with **Improving my software architecture skills and code optimization**
 
-<p align="center">
-🎓 Étudiant en <strong>Licence d’Ingénierie du Développement d’Applications Informatiques</strong>  
-<br>
-📍 Faculté des Sciences et Techniques de Tanger – Université Abdelmalek Essaâdi  
-<br>
-💻 Passionné par le <strong>développement logiciel</strong>, le <strong>web</strong> et les <strong>systèmes informatiques</strong>.
+- 👨‍💻 All of my projects are available at [https://github.com/Homam-Dany](https://github.com/Homam-Dany)
+
+- 💬 Ask me about **Web development, OOP, databases, and Linux basics**
+
+- 📫 How to reach me **dany.homam@etu.uae.ac.ma**
+
+- ⚡ Fun fact **I enjoy learning new technologies every day**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/homam dany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="homam dany" height="30" width="40" /></a>
 </p>
 
----
-
-## 🧠 À propos de moi
-
-Je suis actuellement étudiant à la Faculté des Sciences et Techniques de Tanger.  
-J’ai obtenu un **DEUST en MIP (Mathématiques, Informatique, Physique)**, et je poursuis maintenant une **licence en Ingénierie du Développement d’Applications Informatiques**.  
-
-Je suis passionné par la programmation et la conception d’applications performantes, avec une approche structurée et rigoureuse.  
-J’aime apprendre, expérimenter de nouvelles technologies et transformer des idées en projets concrets.
-
----
-
-## 🛠️ Compétences techniques
-
-### 💻 Langages & Programmation
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,php,sql" />
-</p>
-
-### 🌐 Frameworks & Outils
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,linux,git,vscode,github" />
-  <img src="https://img.shields.io/badge/UML-Modelisation-blue?style=for-the-badge&logo=uml&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raylib-Game%20Dev-green?style=for-the-badge" />
-</p>
-
----
-
-## 📚 Ce que j’étudie actuellement
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java" title="Programmation orientée objet (C++ / Java)" />
-  <img src="https://img.shields.io/badge/Raylib-2D/3D%20Library-red?style=for-the-badge" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel" title="Développement Web" />
-  <img src="https://skillicons.dev/icons?i=linux" title="Systèmes d’exploitation" />
-  <img src="https://img.shields.io/badge/Network-Réseaux-lightgrey?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML-Modélisation-blueviolet?style=for-the-badge" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://img.shields.io/badge/SQL-Bases%20de%20données-orange?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile%20%26%20Edge%20Computing-Initiation-yellow?style=for-the-badge" />
-</p>
-
----
-
-## 🚀 Objectifs
-
-🔹 Concevoir des applications robustes et modernes  
-🔹 Participer à des projets collaboratifs et open-source  
-🔹 Approfondir mes connaissances en architecture logicielle  
-🔹 Explorer les domaines de l’intelligence artificielle et du cloud computing  
-
----
-
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=danyhomam-sketch&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyhomam-sketch&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Me contacter
-
-- ✉️ **Email** : [dany.homam@etu.uae.ac.ma](mailto:dany.homam@etu.uae.ac.ma)  
-- 💼 **LinkedIn** : [Homam Dany](https://www.linkedin.com/in/homam-dany-2047a7189)  
-
-
-
-<p align="center">
-  🌟 Merci d’avoir visité mon profil ! N’hésitez pas à découvrir mes projets universitaires en cours. 🌟
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
