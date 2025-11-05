@@ -27,12 +27,21 @@
 
 ---
 
+### 👨‍🎓 Academic Background
+
+🎓 Étudiant en **Ingénierie de Développement d’Applications Informatiques** à la  
+**Faculté des Sciences et Techniques de Tanger (FSTT)** — Université Abdelmalek Essaâdi.  
+
+🎯 Titulaire d’un **DEUST en MIP (Mathématiques, Informatique et Physique)**, une formation pluridisciplinaire alliant rigueur scientifique et logique de programmation.  
+
+---
+
 ### 👨‍💻 About Me
 
 <p align="left">
-🎓 Étudiant en ingénierie de développement d’applications informatiques, passionné par la conception et le développement logiciel.<br><br>
-💡 J’aime comprendre en profondeur le fonctionnement des technologies et créer des solutions efficaces et bien structurées.<br><br>
-🌍 Curieux et motivé, je cherche à consolider mes compétences techniques tout en développant une approche professionnelle du travail en équipe et de la gestion de projets.
+💡 Passionné par les technologies du développement logiciel, la conception orientée objet et les environnements open-source.<br><br>
+🌍 J’aime comprendre en profondeur le fonctionnement des systèmes et concevoir des applications performantes, structurées et évolutives.<br><br>
+🚀 Mon ambition est d’évoluer vers un profil polyvalent capable d’allier technique, créativité et innovation logicielle.
 </p>
 
 ---
@@ -40,21 +49,23 @@
 ### 🌱 En apprentissage
 
 <p align="left">
-🔹 Programmation orientée objet : <b>C++</b>, <b>Java</b> avec <b>Raylib</b> pour le développement graphique.<br>
+🔹 Programmation orientée objet : <b>C++</b>, <b>Java</b> avec la bibliothèque <b>Raylib</b> pour le développement graphique.<br>
+🔹 Programmation en <b>Python</b> (scripts, automatisation, bases du développement logiciel).<br>
 🔹 Modélisation UML avec <b>PowerDesigner</b>.<br>
 🔹 Base de données et SQL avec <b>MySQL</b>.<br>
 🔹 Systèmes d’exploitation <b>Linux</b> et réseaux informatiques.<br>
-🔹 Développement web : <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b> et <b>Laravel</b>.
+🔹 Développement web : <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b> et <b>Laravel</b>.<br>
+🔹 Initiation au développement <b>mobile</b> et aux <b>Edge Computing Sciences</b>.
 </p>
 
 ---
 
 ### 🎯 Objectifs actuels
 
-🚀 Approfondir mes connaissances en conception logicielle et en architecture d’applications.<br>
-📘 Réaliser des mini-projets pour appliquer mes compétences en POO et en développement web.<br>
-💼 Préparer un stage de fin d’études (PFE) dans un environnement technique stimulant et formateur.<br>
-🤝 Collaborer sur des projets open-source pour acquérir de l’expérience pratique et élargir mon réseau professionnel.
+🚀 Approfondir mes compétences en conception logicielle et en architecture d’applications.<br>
+📘 Réaliser des mini-projets pour renforcer mes acquis en POO, développement web et mobile.<br>
+💼 Préparer un **stage de fin d’études (PFE)** dans une entreprise innovante, avec un environnement technique stimulant.<br>
+🤝 Collaborer sur des projets open-source pour enrichir mes connaissances et développer mon expérience pratique.
 
 ---
 
@@ -64,6 +75,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
@@ -79,7 +92,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" alt="PowerDesigner logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Edge Computing logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
   <img width="12" />
