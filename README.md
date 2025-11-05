@@ -108,8 +108,3 @@
     <img src="https://img.shields.io/badge/Email-dany.homam@etu.uae.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
-
----
-
-> 💬 *“Le code, c’est avant tout une façon de penser et de créer.”*  
-> — Homam Dany
