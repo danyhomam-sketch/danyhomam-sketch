@@ -23,31 +23,47 @@
 
 <h1 align="center">Hey, I'm Homam 👋</h1>
 
-###
+<h3 align="center">💻 Future Software Engineer | Passionate about Clean Code & Innovative Solutions</h3>
 
-<h3 align="left">👨‍💻 About Me</h3>
+---
+
+### 👨‍💻 About Me
 
 <p align="left">
-🎓 Étudiant en ingénierie de développement d’applications informatiques passionné par la conception et la programmation orientée objet.<br><br>
-💡 Compétences clés : <br>
-&nbsp;&nbsp;🔹 Programmation orientée objet (<b>C++</b> / <b>Java</b>) avec la bibliothèque <b>Raylib</b> pour le développement graphique.<br>
-&nbsp;&nbsp;🔹 Modélisation UML avec <b>PowerDesigner</b>.<br>
-&nbsp;&nbsp;🔹 Conception et gestion de bases de données relationnelles (<b>SQL</b>) avec <b>MySQL</b>.<br>
-&nbsp;&nbsp;🔹 Systèmes d’exploitation <b>Linux</b> et réseaux informatiques.<br>
-&nbsp;&nbsp;🔹 Développement web full-stack : <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b> et <b>Laravel</b>.<br><br>
-🚀 Objectif : Devenir un développeur polyvalent capable de concevoir des applications performantes, bien structurées et évolutives.
+🎓 Étudiant en ingénierie de développement d’applications informatiques, passionné par la conception et le développement logiciel.<br><br>
+💡 J’aime comprendre en profondeur le fonctionnement des technologies et créer des solutions efficaces et bien structurées.<br><br>
+🌍 Curieux et motivé, je cherche à consolider mes compétences techniques tout en développant une approche professionnelle du travail en équipe et de la gestion de projets.
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Languages and Tools</h3>
+### 🌱 En apprentissage
+
+<p align="left">
+🔹 Programmation orientée objet : <b>C++</b>, <b>Java</b> avec <b>Raylib</b> pour le développement graphique.<br>
+🔹 Modélisation UML avec <b>PowerDesigner</b>.<br>
+🔹 Base de données et SQL avec <b>MySQL</b>.<br>
+🔹 Systèmes d’exploitation <b>Linux</b> et réseaux informatiques.<br>
+🔹 Développement web : <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b> et <b>Laravel</b>.
+</p>
+
+---
+
+### 🎯 Objectifs actuels
+
+🚀 Approfondir mes connaissances en conception logicielle et en architecture d’applications.<br>
+📘 Réaliser des mini-projets pour appliquer mes compétences en POO et en développement web.<br>
+💼 Préparer un stage de fin d’études (PFE) dans un environnement technique stimulant et formateur.<br>
+🤝 Collaborer sur des projets open-source pour acquérir de l’expérience pratique et élargir mon réseau professionnel.
+
+---
+
+### 🛠 Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
@@ -70,12 +86,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥 My Stats :</h3>
+### 📊 My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Homam-Dany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Homam-Dany&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="250" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Homam-Dany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=Homam-Dany&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/homam-dany" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Homam%20Dany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:dany.homam@etu.uae.ac.ma" target="_blank">
+    <img src="https://img.shields.io/badge/Email-dany.homam@etu.uae.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
+
+---
+
+> 💬 *“Le code, c’est avant tout une façon de penser et de créer.”*  
+> — Homam Dany
